@@ -1,4 +1,4 @@
-_**Proyecto de visualización de triángulos y pirámides.**_
+# _**Proyecto de visualización de triángulos y pirámides.**_
 
 Link al proyecto original: https://gitlab.com/proyectousmgrupo13/triangulos
 
