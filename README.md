@@ -1,4 +1,4 @@
-Proyecto para el ramo de TEL102 - Seminario de Programación.
+Proyecto para el ramo de TEL102 - Seminario de Programación 2020-2.
 
 Link al proyecto original: https://gitlab.com/proyectousmgrupo13/triangulos
 
