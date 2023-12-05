@@ -1,8 +1,6 @@
-Proyecto para el ramo de TEL102 - Seminario de Programación 2020-2
+_**Proyecto de visualización de triángulos y pirámides.**_
 
 Link al proyecto original: https://gitlab.com/proyectousmgrupo13/triangulos
-
-_**Proyecto de visualización de triángulos y pirámides.**_
 
 ============================================================
 
