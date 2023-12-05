@@ -46,4 +46,4 @@ Luego de cumplir todos los requisitos, se puede dar paso a la utilización del p
 
 -Rodrigo Lobos, Rol: 201904649-7,  estudiante de Ing. civil en Telemática, USM Campus San Joaquín.
 
--Pedro Cisternas, Rol: 202056597-k,  estudiante de Ing. civil en Telemática, USM Campus San Joaquín.
+-Pedro Arce, Rol: 202056597-k,  estudiante de Ing. civil en Telemática, USM Campus San Joaquín.
